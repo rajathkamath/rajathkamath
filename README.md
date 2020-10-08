@@ -1,5 +1,5 @@
-### Hola, I'm Aditya Kamath 👋
-![alt text](https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/linkdin_banner_new.jpg?alt=media&token=bb0a1291-c911-4fb6-b57b-048603cb1b54)
+### Hola, I'm Rajath Kamath 👋
+![alt text](https://media-exp1.licdn.com/dms/image/C5616AQGVInFeywf8Pw/profile-displaybackgroundimage-shrink_350_1400/0?e=1607558400&v=beta&t=16mDYBMraehnvE7vqjgQYsOJ-qb76nbuxOntmvm6oNg)
 - 🔭 I’m currently working on Android App Developement
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on Android and web developement
@@ -21,18 +21,18 @@
 
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/adityakamath__">
-  <img align="left" alt="Aditya Kamath Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
+<a href="https://twitter.com/rajathkamath9">
+  <img align="left" alt="Rajath Kamath Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
 </a>
-<a href="https://www.linkedin.com/in/adityakamath16/">
-  <img align="left" alt="Aditya Kamath Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
+<a href="https://www.linkedin.com/in/rajathkamath9/">
+  <img align="left" alt="Rajath Kamath Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
 </a>
-<a href="https://www.instagram.com/adityakamath__/">
-  <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
+<a href="https://www.instagram.com/rajath.kamath/">
+  <img align="left" alt="Rajath Kamath Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
 </a>
-<a href="https://www.facebook.com/aditya.kamath.9081">
-  <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
+<a href="https://www.facebook.com/rajath.kamath.378">
+  <img align="left" alt="Rajath Kamath Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
 </a>
 <a href="https://www.argsinfotech.com/">
-  <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fwww.svg?alt=media&token=18d94c5d-5df5-4f38-80e3-2f515df0f47d" />
+  <img align="left" alt="Rajath Kamath Company" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fwww.svg?alt=media&token=18d94c5d-5df5-4f38-80e3-2f515df0f47d" />
 </a>
