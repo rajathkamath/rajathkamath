@@ -1,12 +1,9 @@
 ### Hola, I'm Rajath Kamath 👋
 ![alt text](https://media-exp1.licdn.com/dms/image/C5616AQGVInFeywf8Pw/profile-displaybackgroundimage-shrink_350_1400/0?e=1607558400&v=beta&t=16mDYBMraehnvE7vqjgQYsOJ-qb76nbuxOntmvm6oNg)
-- 🔭 I’m currently working on Android App Developement
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Android App and Web Developement
 - 👯 I’m looking to collaborate on Android and web developement
 - 🤔 I’m looking for help with c# :-)
-- 💬 Ask me about Android
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of my time reading Books and watching Netfix
+- 💬 Ask me about web development
 
 
 ### Programming Languages  :rocket:
